@@ -8134,8 +8134,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #05164D;
-/*general background*/
+  background: #2E4053;
+  /*#05164D original*/
+/*general background*/    
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
@@ -8160,6 +8161,7 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
   color: white;
+  /*font color */
   font-weight: 400; }
 
 .text-primary {
@@ -8448,7 +8450,7 @@ h1, h2, h3, h4, h5,
         bottom: 0;
         left: 0;
         right: 0;
-        background: #000000;
+        background: #000000; /*bacgrp*/
         opacity: 0; }
       .owl-carousel.home-slider .slider-item .slider-text {
         height: 750px;
@@ -8466,7 +8468,7 @@ h1, h2, h3, h4, h5,
             bottom: 0;
             left: 0;
             right: 0;
-            background: #000000;
+            background: #2E4053;/*bacground*/
             opacity: 0; }
           @media (max-width: 1199.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
